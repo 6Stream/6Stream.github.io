@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 6Stream
 
 You can use the [editor on GitHub](https://github.com/6Stream/6Stream.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

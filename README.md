@@ -1,5 +1,8 @@
 ## Welcome to 6Stream
 
+[Kodi]()
+[Android App]()
+
 You can use the [editor on GitHub](https://github.com/6Stream/6Stream.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
